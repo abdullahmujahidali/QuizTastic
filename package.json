@@ -36,7 +36,7 @@
     "keyword-extractor": "^0.0.25",
     "lucide-react": "^0.263.0",
     "next": "13.4.12",
-    "next-auth": "^4.22.3",
+    "next-auth": "^4.24.5",
     "next-themes": "^0.2.1",
     "openai": "^3.3.0",
     "postcss": "8.4.27",
